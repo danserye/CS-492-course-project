@@ -11,10 +11,7 @@ import java.security.spec.PKCS8EncodedKeySpec;
 import java.security.spec.X509EncodedKeySpec;
 import javax.crypto.Cipher;
 
-/**
- * @author visruthcv
- *
- */
+
 public class CryptographyUtil {
 
     private static final String ALGORITHM = "RSA";
